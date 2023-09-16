@@ -2993,7 +2993,7 @@
     (uuid dca25b43-46ae-4c14-86d6-062c9cb0a213)
   )
 
-  (text "[03] SCORE" (at 177.165 27.94 0)
+  (text "[04] SCORE" (at 177.165 27.94 0)
     (effects (font (size 8 8) (thickness 0.8) bold (color 132 0 0 1)) (justify left bottom))
     (uuid 2bbe74eb-259b-40ed-8450-df9dd446762d)
   )
